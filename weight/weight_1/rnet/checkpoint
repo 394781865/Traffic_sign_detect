@@ -1,0 +1,6 @@
+model_checkpoint_path: "rnet-8"
+all_model_checkpoint_paths: "rnet-4"
+all_model_checkpoint_paths: "rnet-5"
+all_model_checkpoint_paths: "rnet-6"
+all_model_checkpoint_paths: "rnet-7"
+all_model_checkpoint_paths: "rnet-8"
