@@ -16,7 +16,7 @@ taffic dataset as benchmark. Our project uses two-stage architecture liking fast
 
  ![orig](https://github.com/ZhangDY1994/Traffic_sign_detect/blob/master/detect_79688.jpg)
  
- ![orig](https://github.com/ZhangDY1994/Traffic_sign_detect/blob/master/detect_79688.jpg)
+ ![orig](https://github.com/ZhangDY1994/Traffic_sign_detect/blob/master/detect_82136.jpg)
 
 ## Usage
 In the project, we have provided you with the trained model. You can run the code directly using:
