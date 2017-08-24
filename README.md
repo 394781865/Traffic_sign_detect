@@ -31,7 +31,7 @@ in example folder to train the cascaded network.
 
 In the end, you can run :
 `python run_dense_net.py`
-to train the classification network. You can find the run_dense_net.py in [densenet](https://github.com/ikhlestov/vision_networks)
+to train the classification network. You can find the run_dense_net.py in [densenet](https://github.com/ikhlestov/vision_networks).
 But you adopt the data_providers for you own purpose.
 After the step, you can train your dataset you object detection and recognition
 
