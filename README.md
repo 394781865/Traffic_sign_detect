@@ -34,7 +34,7 @@ in example folder to train the cascaded network.
 
 In the end, you can run :
 <br>
-`python run_dense_net.py`
+`$ python run_dense_net.py`
 <br>
 to train the classification network. You can find the run_dense_net.py in [densenet](https://github.com/ikhlestov/vision_networks).
 But you have to adapt the data_providers for you own purpose.
