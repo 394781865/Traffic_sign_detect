@@ -1,6 +1,6 @@
 # Traffic_sign_detect_tensorflow
 This project is the implementation of the paper *《Detection of Multiple Objects in Traffic Scenes
-using Cascaded Convolutional Networks》*" for traffic sign detection and recognition with tensorflow. 
+using Cascaded Convolutional Networks》* for traffic sign detection and recognition with tensorflow. 
 The code is adapted from this [repo](https://github.com/zt706/tensorflow-mtcnn) and [repo](https://github.com/ikhlestov/vision_networks).
 <br>
 We use the [TsingHua-Tencent 100k](http://cg.cs.tsinghua.edu.cn/traffic-sign/)
